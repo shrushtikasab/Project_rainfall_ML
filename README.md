@@ -5,12 +5,6 @@ Out of these models catboost performed very well giving an AUC score around and 
 Here due to my system compatibility is very low. So I havent done hyperparameter tuning. But it is highly recommended to do it if possible.
 # Website Link: http://127.0.0.1:5000/
 
-# Testing values
-
-# Rainy Day: 
-![Predictor Values for Rainy Day](githubimgs/predictor.png)
-# Sunny Day:
-![Predictor Values for Sunny Day](githubimgs/predictor1.png)
 
 # Tech Stack
 * Front-End: HTML, CSS, Bootstrap
@@ -44,8 +38,7 @@ Here due to my system compatibility is very low. So I havent done hyperparameter
 * Different types of models were tried like catboost, random forest, logistic regression, xgboost, support vector machines, knn, naive bayes.
 * Out of these catboost, random forest and support vector machines were top 3
 * The conclusion were made using classification metrics. roc curve and auc score
-# Model Deployment
-* The model is deployed using Flask at Heroku server at the 
+
 
 
 
